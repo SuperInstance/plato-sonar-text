@@ -1,0 +1,8 @@
+[package]
+name = "plato-sonar-text"
+version = "0.1.0"
+edition = "2021"
+description = "Acoustic input translated into text — the ears module for Plato agents"
+license = "MIT"
+
+[dependencies]
